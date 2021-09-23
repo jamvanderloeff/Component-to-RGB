@@ -1,4 +1,4 @@
-28313460930570
+29928505740571
 videobits
 3xRCA_CONN_SINGLE
 
@@ -62,6 +62,13 @@ USB C Type-C Receptacle SMD
 0
 10
 7
+videobits
+VID28-XX_DownMount
+VID28-XX Dual-Shaft Stepper Motor
+Stepper, motor, VID28
+0
+8
+8
 videobits
 borgar
 

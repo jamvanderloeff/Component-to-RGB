@@ -16,7 +16,7 @@ Comment,Designator,Footprint,LCSC, LCSC
 "5k1","R17,R16","Resistor_SMD:R_0805_2012Metric","","C27834"
 "1k33","R2","Resistor_SMD:R_0805_2012Metric","","C17382"
 "75","R3,R4,R5,R11,R10,R9,R8","Resistor_SMD:R_0805_2012Metric","","C20638"
-"200","R6","Resistor_SMD:R_0805_2012Metric","","C17540"
+"200","R6,R13,R12","Resistor_SMD:R_0805_2012Metric","","C17540"
 "10k","R7","Resistor_SMD:R_0805_2012Metric","","C55866"
 "MCP1700-2802E_SOT23","U1","Package_TO_SOT_SMD:SOT-23","","C88294"
 "LMH1251MT_NOPB","U2","Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm","","NOT FITTED"
