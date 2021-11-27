@@ -29,10 +29,10 @@ L Regulator_Linear:MCP1700-2802E_SOT23 U1
 U 1 1 5C9F557C
 P 4800 6300
 F 0 "U1" H 4800 6542 50  0000 C CNN
-F 1 "MCP1700-2802E_SOT23" H 4800 6451 50  0000 C CNN
+F 1 "AP2125N-1.8TRG1" H 4800 6451 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 4800 6525 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" H 4800 6300 50  0001 C CNN
-F 4 "C88294" H 4800 6300 50  0001 C CNN "LCSC"
+F 3 "https://datasheet.lcsc.com/lcsc/1912111437_Diodes-Incorporated-AP2125N-1.8TRG1_C460323.pdf" H 4800 6300 50  0001 C CNN
+F 4 "C460323" H 4800 6300 50  0001 C CNN "LCSC"
 	1    4800 6300
 	1    0    0    -1  
 $EndComp
@@ -69,10 +69,10 @@ L Device:R_Small R2
 U 1 1 5C9F809B
 P 5250 6750
 F 0 "R2" H 5309 6796 50  0000 L CNN
-F 1 "1k33" H 5309 6705 50  0000 L CNN
+F 1 "1k5" H 5309 6705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5250 6750 50  0001 C CNN
 F 3 "~" H 5250 6750 50  0001 C CNN
-F 4 "C17382" H 5250 6750 50  0001 C CNN "LCSC"
+F 4 "C4310" H 5250 6750 50  0001 C CNN "LCSC"
 	1    5250 6750
 	1    0    0    -1  
 $EndComp
@@ -166,7 +166,7 @@ F 3 "" H 6050 6900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 4500 6000 0    50   ~ 0
-2.8V really LDO
+1.8V really LDO
 Wire Wire Line
 	2600 3700 3050 3700
 Wire Wire Line
@@ -360,7 +360,7 @@ Wire Wire Line
 Wire Wire Line
 	4500 1550 4650 1550
 $Comp
-L ossc:SCART_CONN J4
+L comprgb-rescue:SCART_CONN-ossc J4
 U 1 1 5CC3C1EF
 P 8900 1300
 F 0 "J4" H 8900 2165 50  0000 C CNN
@@ -440,7 +440,7 @@ Wire Wire Line
 	10200 900  10150 900 
 Connection ~ 10200 1400
 $Comp
-L ossc:3xRCA_CONN J5
+L comprgb-rescue:3xRCA_CONN-ossc J5
 U 1 1 5CC742C4
 P 950 3850
 F 0 "J5" H 1428 3896 50  0000 L CNN
@@ -941,7 +941,7 @@ Wire Wire Line
 Text Label 7200 3700 0    50   ~ 0
 Red
 $Comp
-L ossc:VGA J1
+L comprgb-rescue:VGA-ossc J1
 U 1 1 5CCA16CB
 P 8000 3350
 F 0 "J1" H 8000 4237 60  0000 C CNN
