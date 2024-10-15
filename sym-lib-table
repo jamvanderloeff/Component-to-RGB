@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name comprgb-rescue)(type Legacy)(uri ${KIPRJMOD}/comprgb-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "comprgb-rescue")(type "KiCad")(uri "${KIPRJMOD}/comprgb-rescue.kicad_sym")(options "")(descr ""))
 )
