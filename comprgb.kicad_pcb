@@ -7150,7 +7150,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005ce3811d")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.325 4.025)
 			(end 2.325 4.025)
@@ -8619,6 +8619,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1c13655-903d-4ea8-a65e-3c842fd40d91")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1017"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ac983eaa-4659-4b89-b82a-c132eccfa5e6")
 			(effects
 				(font
 					(size 1.27 1.27)
