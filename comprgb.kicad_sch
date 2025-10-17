@@ -9169,7 +9169,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4310"
+		(property "LCSC" "C714010"
 			(at 45.72 160.02 0)
 			(effects
 				(font
@@ -9247,7 +9247,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4310"
+		(property "LCSC" "C714010"
 			(at 45.72 157.48 0)
 			(effects
 				(font
