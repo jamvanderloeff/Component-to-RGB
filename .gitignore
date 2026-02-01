@@ -2,3 +2,4 @@
 ~comprgb.kicad_sch.lck
 ~comprgb.kicad_pcb.lck
 /comprgb-backups
+*.tmp

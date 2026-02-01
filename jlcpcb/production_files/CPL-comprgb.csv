@@ -16,7 +16,7 @@ C9,100n,C_0805_2012Metric,-30.4,25.4,180.0,top
 D1,LED,LED_0805_2012Metric,-17.75,31.85,0.0,top
 FB1,Ferrite_Bead_Small,L_0805_2012Metric,-42.0,31.7,180.0,top
 FID1,Fiducial,wakaba,-39.6,-30.6,0.0,top
-FID2,Fiducial,uwuriel,-21.1,-22.45,0.0,top
+FID2,Fiducial,uwuriel,-25.8,-20.5,0.0,top
 J1,VGA,VGA_CONN,-50.4,0.88,-90.0,top
 J2,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,-28.8,18.66,0.0,top
 J3,USB_C_Receptacle_Power,USB_C_Receptacle_Generic_Power_Only,-52.1,27.4,90.0,top
