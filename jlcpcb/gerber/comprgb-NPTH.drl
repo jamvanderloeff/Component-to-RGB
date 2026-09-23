@@ -1,8 +1,8 @@
 M48
-; DRILL file KiCad 10.0.1 date 2026-04-25T08:17:54
+; DRILL file KiCad 10.0.6 date 2026-09-22T18:40:02
 ; FORMAT={-:-/ absolute / inch / decimal}
-; #@! TF.CreationDate,2026-04-25T08:17:54+12:00
-; #@! TF.GenerationSoftware,Kicad,Pcbnew,10.0.1
+; #@! TF.CreationDate,2026-09-22T18:40:02+12:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,10.0.6
 ; #@! TF.FileFunction,NonPlated,1,2,NPTH
 FMAT,2
 INCH
